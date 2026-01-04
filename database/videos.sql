@@ -1,0 +1,5 @@
+id (uuid, primary key)
+title (text)
+facebook_video_url (text)
+is_featured (boolean)
+created_at (timestamp)

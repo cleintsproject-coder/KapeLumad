@@ -1,0 +1,5 @@
+id (uuid, primary key)
+name (text)
+email (text)
+message (text)
+created_at (timestamp)
